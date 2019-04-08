@@ -8,6 +8,6 @@ class Dog
     @name
   end 
 end 
-jassy = Dog.new
+fido = Dog.new
 jassy.name = "Jessy"
 puts Jassy.name
